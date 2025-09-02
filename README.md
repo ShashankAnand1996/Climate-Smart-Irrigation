@@ -6,7 +6,7 @@ This repository contains three Jupyter notebooks designed to simulate crop growt
 
 - **Drip irrigation**  
 - **Sprinkler irrigation**  
-- **Rainfed cropping** (serving as a control scenario without irrigation)  
+- **Rainfed** (serving as a control scenario without irrigation)  
 
 Each notebook performs a growing season simulation of:  
 - Vertically integrated soil moisture dynamics  
@@ -14,6 +14,7 @@ Each notebook performs a growing season simulation of:
 - Soil greenhouse gas (GHG) emissions  
 
 All code cells are thoroughly commented for clarity. The notebooks take as input a NumPy array representing rainfall distribution.  
+
 As an example, the file **rain_Lubbock_lbd0p18_aphp0096.npy**, provided here, contains **200 seasons of a typical 140-day growing season of rainfall** representative of the **Texas High Plains**.  
 
 ## Model Context  
