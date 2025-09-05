@@ -19,7 +19,7 @@ As an example, the file **rain_Lubbock_lbd0p18_aphp0096.npy**, provided here, co
 
 ## Model Context  
 
-For the simulations, we use soil, weather, and crop parameters representative of the **Texas High Plains**, a major agricultural region in the United States that relies heavily on irrigation for sustainable production.  
+For the example simulations, we use soil, weather, and crop parameters representative of the corn growing season in the **Texas High Plains**, a major agricultural region in the United States that relies heavily on irrigation for sustainable production.  
 
 A detailed discussion of the model structure and its mathematical formulation is provided in the supporting information for the manuscript. Please refer to that document for in-depth explanations.  
 
