@@ -25,8 +25,7 @@ A detailed discussion of the model structure and its mathematical formulation is
 
 This Python code was developed to run simulations for a submitted manuscript that introduces a **dual-index framework** to evaluate trade-offs between **productivity** and **soil GHG emissions (climate impact)** across different irrigation practices and the rainfed baseline.  
 
-- The manuscript is currently under revision at *Earth’s Future*.  
-- The preprint is available here: [ESS Open Archive](https://essopenarchive.org/doi/full/10.22541/essoar.175399511.16884572).
+- The manuscript is published *Earth’s Future*: [PEER_REVIEWED_PUB_LINK](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025EF006116).
 
 ## Funding Support
 
